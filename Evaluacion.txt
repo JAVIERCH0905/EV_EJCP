@@ -1,7 +1,11 @@
 CHANCUSIG PALACIOS
 EDISON JAVIER
 0992797601
+<<<<<<< HEAD
 JAVA - PYTHON - C#
 ORACLE - ACCESS - MYSQL
 +++++
 
+=======
+++
+>>>>>>> develop
